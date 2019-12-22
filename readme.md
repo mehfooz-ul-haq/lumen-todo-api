@@ -10,7 +10,9 @@ a very compact todo api in written in Lumen framework devleoped by Laravel team.
 - filter tasks based on category or status
 
 
-## How to Install 
+## How to Install
+follow the instruction and enjoy.
+
 - download the repository
 - update .env file with database settings
 - composer install
@@ -23,3 +25,8 @@ navigate your browser to localhost:8000 and enjoy
 ## Official Documentation
 
 Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
+
+
+## support
+
+I will be happy if you help me to improve this api with your useful thoughts.
