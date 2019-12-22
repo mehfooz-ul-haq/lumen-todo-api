@@ -19,7 +19,7 @@ follow the instruction and enjoy.
 - php artisan migrate
 - php localhost -S localhost:8000
 
-navigate your browser to localhost:8000 and enjoy
+navigate your browser to localhost:8000/api/v1 and enjoy
 
 
 ## Official Documentation
